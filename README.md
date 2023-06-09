@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pramila chaudhary</h1>
-<h3 align="center">I'm software engineering student from Nepal</h3>
+<h1 align="center">Hi 👋, It's me Pramila Chaudhary.</h1>
+<h3 align="center">Software Engineering Student</h3>
 <img align="right alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmepramila&label=Profile%20views&color=0e75b6&style=flat" alt="itsmepramila" /> </p>
